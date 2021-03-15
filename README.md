@@ -19,3 +19,7 @@ Create a project
 ```
 vue create <project-name>
 ```
+Run the application   
+```
+npm run serve
+```

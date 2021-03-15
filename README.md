@@ -38,10 +38,19 @@ vue create <project-name>
     > TypeScript
     > Linter / Formatter
       > 3.x
-  ? Use class-style component syntax? N
+    ? Choose a version of Vue.js that you want to start the project with 3.x (Preview)
+    ? Use class-style component syntax? Yes
+    ? Use Babel alongside TypeScript (required for modern mode, auto-detected polyfills, transpiling JSX)? Yes
+    ? Use history mode for router? (Requires proper server setup for index fallback in production) No
+    ? Pick a CSS pre-processor (PostCSS, Autoprefixer and CSS Modules are supported by default): Sass/SCSS (with node-sass)
+    ? Pick a linter / formatter config: 
+        ESLint with error prevention only 
+        ESLint + Airbnb config 
+        ESLint + Standard config  
+  Use class-style component syntax? N
   ? Use Babel alongside TypeScript (required for modern mode, auto-detect polyfills, transpiling JSX)? Y
-  > ESLint + Prettier
-  > Lint on save
+  ❯ ESLint + Prettier
+  ❯◉ Lint on save
   ? Where to you prrefer placing config for Babel, ESLint, etc?
   > In dedicated config files
   ? Save this as preset for future projects? N

@@ -4,7 +4,7 @@
 
 ## VueFire
 [VueFire](https://vuefire.vuejs.org/) Realtime bindings between Vue/Vuex and Firebase   
-___Note: This version currently supports Vue 2 and Firebase 7. Support for Vue 3 / Composition API and Firebase 8 is on the way.___
+___Note: This version currently supports Vue 2 and Firebase 7. Support for Vue 3 / Composition API and Firebase 8 is on the way.___   
 Install VueFire
 ```bash
 npm install vuefire firebase

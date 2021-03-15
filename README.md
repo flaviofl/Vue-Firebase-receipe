@@ -1,1 +1,3 @@
-# Vue-Firebase-receipe
+# Vue JS 3 + Firebase recipe
+
+## Setting up a Firebase Project

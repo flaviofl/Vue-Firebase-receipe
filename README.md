@@ -20,6 +20,18 @@ vue --version
 Create a project   
 ```
 vue create <project-name>
+> Manually select features
+  > Choose Vue version
+  > Babel
+  > TypeScript
+    > 3.x
+? Use class-style component syntax? N
+? Use Babel alongside TypeScript (required for modern mode, auto-detect polyfills, transpiling JSX)? Y
+> ESLint + Prettier
+> Lint on save
+? Where to you prrefer placing config for Babel, ESLint, etc?
+> In dedicated config files
+? Save this as preset for future projects? N
 ```
 Run the application   
 ```

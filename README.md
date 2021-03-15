@@ -11,3 +11,11 @@ npm install vuefire firebase
 ```
 
 ## Vue CLI
+Install Vue CLI globally   
+```bash
+npm install -g @vue/cli
+```
+Create a project   
+```
+vue create **project-name**
+```

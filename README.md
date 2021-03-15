@@ -11,7 +11,7 @@ npm install vuefire firebase
 ```
 
 ## Vue CLI
-Install Vue CLI globally   
+Install Vue CLI globally (Requirers Node)   
 ```bash
 npm install -g @vue/cli
 

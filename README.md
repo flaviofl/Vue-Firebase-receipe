@@ -57,5 +57,6 @@ vue create <project-name>
 ```
 Run the application   
 ```
+cd <project-name>
 npm run serve
 ```

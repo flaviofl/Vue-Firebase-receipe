@@ -24,6 +24,7 @@ vue create <project-name>
     > Choose Vue version
     > Babel
     > TypeScript
+    > Linter / Formatter
       > 3.x
   ? Use class-style component syntax? N
   ? Use Babel alongside TypeScript (required for modern mode, auto-detect polyfills, transpiling JSX)? Y

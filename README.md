@@ -21,6 +21,18 @@ Create a project
 ```
 vue create <project-name>
   > Manually select features
+  ? Please pick a preset: Manually select features
+  ? Check the features needed for your project: 
+   ◉ Choose Vue version
+   ◉ Babel
+   ◉ TypeScript
+   ◯ Progressive Web App (PWA) Support
+  ◉ Router
+   ◯ Vuex
+   ◯ CSS Pre-processors
+   ◉ Linter / Formatter
+   ◯ Unit Testing
+   ◯ E2E Testing
     > Choose Vue version
     > Babel
     > TypeScript

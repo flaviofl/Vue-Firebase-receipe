@@ -17,5 +17,5 @@ npm install -g @vue/cli
 ```
 Create a project   
 ```
-vue create **project-name**
+vue create <project-name>
 ```
